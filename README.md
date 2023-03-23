@@ -9,6 +9,7 @@
 ```python
 python3 -m pip install -r requirements.txt 
 ```
-
-
-
+运行
+```
+python gpt
+```
